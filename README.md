@@ -3,7 +3,7 @@ RockStar Of Design #ROD - BigRock Inc.
 
 This is my entry for the BigRock Inc. contest <a href="http://www.rockstarofdesign.net/">RockStar Of Design(ROD)</a>.
 
-We have worked on an HTML5 Responsive design for the their homepage. With a dark theme and utilizing the modern Flat UI
+I have worked on an HTML5 Responsive design for the their homepage. With a dark theme and utilizing the modern Flat UI
 using technologies like HTML5, CSS, JavaScript, Twitter Bootstrap, Angular JS by Google etc.
 
 - It simulates an entire purchase flow for Domain Names at BigRock 
